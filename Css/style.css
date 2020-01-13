@@ -1,0 +1,30 @@
+/*
+css-tricks.com
+
+selector {
+	property: value;
+}*/
+
+body {
+	background-image: url(programming.jpg); 
+	background-size: cover;
+}
+
+
+h2 {
+	color: rgba(24, 117, 217,0.7);
+	text-align: center;
+	cursor: pointer;
+}
+
+p {
+	color: rgba(24, 117, 217,0.7);
+	
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+	color: rgba(24, 117, 217,0.7);
+
+}
