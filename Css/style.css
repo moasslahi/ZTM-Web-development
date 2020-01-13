@@ -11,9 +11,10 @@ body {
 }
 
 
-h2 {
+h2 , p {
 	color: rgba(24, 117, 217,0.7);
 	text-align: center;
+	border: 5px solid rgba(24, 117, 217,0.7);
 	cursor: pointer;
 }
 
@@ -26,5 +27,12 @@ li {
 	list-style: none;
 	display: inline-block;
 	color: rgba(24, 117, 217,0.7);
+}
 
+.webP {
+	border: 5px dashed green;
+}
+
+#div1 {
+	background-color: rgba(0,0,255,0.3)
 }
